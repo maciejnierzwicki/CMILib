@@ -10,3 +10,4 @@ website: https://www.spigotmc.org/resources/cmilib.87610/
 commands:
   cmil:
       description: basic command
+      permission: cmil.parent
